@@ -14,7 +14,7 @@ const ResultsDetail = ({result}) => {
           {result.rating} <AntDesign name="star" size={14} color={'#FAC101'} />
         </Text>
         <Text style={styles.resultDetailss}>
-           <EvilIcons name="comment" size={16} color="black" /> {result.review_count}
+          {result.review_count} <EvilIcons name="comment" size={16} color="black" /> 
         </Text>
       </View>
            
