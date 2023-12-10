@@ -1,3 +1,3 @@
 # RestaurantSearchApp
 React Native - YelpAPI
-![RestaurantSearchApp](https://github.com/Hakanlsk/RestaurantSearchApp/assets/123507532/e57efaf2-f1fc-4b04-b2d0-bf1c641fdd53)
+![restaurantsearchapp (1)](https://github.com/Hakanlsk/RestaurantSearchApp/assets/123507532/f01023b4-08d2-46d8-a47b-9bc00820b09b)
